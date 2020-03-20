@@ -1,1 +1,2 @@
-# azure-synapse-python-demo
+# Azure Synapse Analytics
+## Python Demo
