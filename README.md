@@ -1,5 +1,5 @@
 # Azure Synapse Analytics
-## Python Demo
+## PySpark (Python) Demo
 In this demo, we will:
 
 * show you how to import the Public Holidays Open Dataset
