@@ -1,8 +1,8 @@
 # Azure Synapse Analytics
 ## Python Demo
-In this demo, we will show you how to import the Public Holidays Open Dataset.
+In this demo, we will:
 
-We will also:
+* show you how to import the Public Holidays Open Dataset
 * load the public holiday data for the past 12 months
 * convert the data to Spark DataFrame
 * get a count of the DataFrame
